@@ -1,0 +1,2 @@
+%{"erlubi": {:git, "git://github.com/krestenkrab/erlubi.git", "2610626e17e1aad52aad2fb4953e373391f2bcf0", []},
+  "xmlrpc": {:git, "http://github.com/etnt/xmlrpc", "a60831ac7d9a82c82986afeae5ae5652b323e1e1", [branch: "master"]}}
